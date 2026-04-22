@@ -1,0 +1,10 @@
+El Algoritmo de la Veracidad (Responsabilidad + Git)
+​En internet, el uso responsable implica verificar fuentes. En el trabajo técnico, Git cumple una función similar mediante el comando git blame y el historial de commits.
+​La relación: Así como un ciudadano responsable no comparte fake news, un desarrollador usa Git para dejar constancia de quién hizo qué y por qué. La transparencia es el antídoto contra la desinformación y el caos técnico.
+​2. El Algoritmo de la Colaboración Distribuida (Participación + Git)
+​La participación ciudadana moderna ocurre en espacios digitales descentralizados. Git fue diseñado precisamente como un sistema de control de versiones distribuido.
+​La relación: El concepto de Open Source (Código Abierto) es el puente. Un ciudadano que participa en un proyecto de datos abiertos para su ciudad usa herramientas como GitHub o GitLab para proponer mejoras mediante Pull Requests. Es la democracia aplicada al código.
+​3. El Algoritmo de la Bifurcación y el Consenso (Fork & Merge)
+​En la participación ciudadana, existen diferentes opiniones que eventualmente deben llegar a un acuerdo. En Git, esto se traduce en git fork y git merge.
+​La relación: El "fork" permite que alguien tome una iniciativa y le dé un enfoque distinto sin destruir el original. El "merge" representa el proceso de debate y validación donde las mejores ideas se integran al proyecto principal. Es un modelo de construcción colectiva.
+​4. El Algoritmo de la Auditoría y Responsabilida.
