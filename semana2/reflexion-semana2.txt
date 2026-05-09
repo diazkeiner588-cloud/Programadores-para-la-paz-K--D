@@ -1,0 +1,1 @@
+Dominar la terminal (o CLI) no es solo un capricho de "hacker" de película; es la diferencia entre trabajar con una venda en los ojos o tener visión de rayos X sobre tu sistema de archivos. Aunque las interfaces gráficas (GUIs) son cómodas, tienen límites que la terminal rompe con un par de comandos

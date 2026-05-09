@@ -1,0 +1,6 @@
+Un repositorio es un espacio centralizado donde se almacena, organiza y gestiona información digital. Aunque el término se usa en varios contextos, su significado más común hoy en día está en el mundo del desarrollo de software y la academia
+
+En el contexto de la programación y el control de versiones (como Git), un commit es esencialmente una captura de pantalla o una "instantánea" de tus archivos en un momento específico.
+
+​En el control de versiones, push es la acción de enviar tus commits desde tu repositorio local (tu computadora) a un repositorio remoto (como GitHub, GitLab o Bitbucket).
+

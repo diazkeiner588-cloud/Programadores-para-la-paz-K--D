@@ -1,0 +1,1 @@
+Usar herramientas de control de versiones como Git no es solo una "buena práctica"; en el desarrollo moderno, es prácticamente el sistema nervioso central de cualquier proyecto de software.
