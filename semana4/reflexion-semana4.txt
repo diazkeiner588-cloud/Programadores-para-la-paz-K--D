@@ -1,0 +1,2 @@
+Que las comunidades e iniciativas ciudadanas construyan sus propias herramientas tecnológicas con tecnologías abiertas como Node.js es un cambio de juego absoluto. No se trata solo de escribir código; se trata de soberanía tecnológica, autonomía y democratización.
+​Cuando una comunidad depende de software cerrado o de grandes corporaciones (Big Tech), se adapta a lo que esas plataformas deciden. Al programar lo propio, las reglas del juego cambian por completo.
