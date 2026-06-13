@@ -1,0 +1,12 @@
+Sistema operativo:Un sistema operativo (SO) es el software principal que gestiona todo el hardware y el resto de los programas de un ordenador, smartphone o dispositivo electrónico.
+
+Node.js:Node.js te permite usar JavaScript para construir el Backend (la lógica del servidor, bases de datos y la arquitectura interna de una aplicación), y no solo el Frontend (lo que el usuario ve).
+
+Aplicación server.js:es, por convención, el archivo principal o punto de entrada de un servidor web creado con Node.js.
+
+
+Puerto:es como una puerta virtual o un canal específico dentro de tu computadora que permite la entrada y salida de datos.
+
+
+Logs:es como el diario de vida o la caja negra de una computadora, una aplicación o un sistema operativo.
+
